@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimary" /> <!-- 按钮的背景颜色 -->
+    <corners android:radius="10dp" /> <!-- 按钮的圆角半径 -->
+    <stroke
+        android:color="#FFFFFF"
+        android:width="2dp"/>
+    <!-- 按钮的边框颜色 -->
+     <!-- 按钮的边框宽度 -->
+</shape>

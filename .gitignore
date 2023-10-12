@@ -1,0 +1,4 @@
+# 项目排除路径
+/work3_one/target/
+/work3_three/target/
+/work3_two/target/

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="863032ad-6457-4eec-a257-741822a7b23c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2P0BHNlbvecU7XHshJmF02yYEcc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/桌面/课程提交资料/安卓/OA/OA",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors",
+    "spring.configuration.checksum": "ffb4513f2a3a46ad17d19ff6b56f9a2d",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Demo\JAVA\OA\OA_Java\src\main\resources" />
+      <recent name="D:\Demo\JAVA\OA\OA_Java\src\main\java\com\example\oa" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.oa.controller" />
+      <recent name="com.example.oa.service" />
+      <recent name="com.example.oa.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OaApplication">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.oa.test" />
+      <module name="OA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.oa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="OA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.oa.OaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="863032ad-6457-4eec-a257-741822a7b23c" name="Changes" comment="" />
+      <created>1682584032102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682584032102</updated>
+      <workItem from="1682584034320" duration="1993000" />
+      <workItem from="1682763254741" duration="6978000" />
+      <workItem from="1683172259880" duration="3398000" />
+      <workItem from="1683247632860" duration="3539000" />
+      <workItem from="1683263771949" duration="1524000" />
+      <workItem from="1683282996785" duration="8642000" />
+      <workItem from="1683335635105" duration="1688000" />
+      <workItem from="1683350096607" duration="2535000" />
+      <workItem from="1683362938700" duration="15905000" />
+      <workItem from="1683421905205" duration="15425000" />
+      <workItem from="1683508058902" duration="3675000" />
+      <workItem from="1683524464646" duration="142000" />
+      <workItem from="1683529733389" duration="796000" />
+      <workItem from="1683542918972" duration="5474000" />
+      <workItem from="1683616058426" duration="1496000" />
+      <workItem from="1683898847114" duration="1244000" />
+      <workItem from="1683938386820" duration="138000" />
+      <workItem from="1684028237720" duration="1450000" />
+      <workItem from="1684041411546" duration="10243000" />
+      <workItem from="1684065715084" duration="6000" />
+      <workItem from="1684065733692" duration="10326000" />
+      <workItem from="1684109310223" duration="7855000" />
+      <workItem from="1684125757245" duration="3268000" />
+      <workItem from="1684129161603" duration="193000" />
+      <workItem from="1684138326517" duration="8987000" />
+      <workItem from="1684199718858" duration="10324000" />
+      <workItem from="1684229348647" duration="9318000" />
+      <workItem from="1684247986815" duration="1745000" />
+      <workItem from="1684284779233" duration="473000" />
+      <workItem from="1684285506850" duration="492000" />
+      <workItem from="1684286560149" duration="2166000" />
+      <workItem from="1684301679455" duration="3842000" />
+      <workItem from="1684314633268" duration="3981000" />
+      <workItem from="1684372176736" duration="8000" />
+      <workItem from="1684384932224" duration="4000" />
+      <workItem from="1684513871134" duration="1148000" />
+      <workItem from="1684544344075" duration="1902000" />
+      <workItem from="1684552638318" duration="438000" />
+      <workItem from="1684751985586" duration="655000" />
+      <workItem from="1684753469166" duration="1027000" />
+      <workItem from="1684756887329" duration="7000" />
+      <workItem from="1684813613513" duration="2412000" />
+      <workItem from="1684897259497" duration="845000" />
+      <workItem from="1684993113554" duration="46000" />
+      <workItem from="1685015453178" duration="618000" />
+      <workItem from="1685083732752" duration="7720000" />
+      <workItem from="1685160241672" duration="649000" />
+      <workItem from="1685167285184" duration="833000" />
+      <workItem from="1685175035733" duration="8313000" />
+      <workItem from="1685198554681" duration="9000" />
+      <workItem from="1685199797264" duration="1154000" />
+      <workItem from="1685234890207" duration="760000" />
+      <workItem from="1685236905426" duration="8168000" />
+      <workItem from="1685279818077" duration="10000" />
+      <workItem from="1685279879909" duration="10000" />
+      <workItem from="1685330915724" duration="1147000" />
+      <workItem from="1697095816260" duration="22000" />
+      <workItem from="1697095855315" duration="36000" />
+      <workItem from="1697095899459" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

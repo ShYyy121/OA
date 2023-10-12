@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/qiandaotv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="北京市"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/loginedit"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:clickable="true"
+        app:layout_constraintTop_toBottomOf="@+id/qiandaotv"
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/qiandao_button"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="500dp"
+        android:backgroundTint="@color/btn_ghost_blue_border_pressed"
+        android:src="@drawable/qiandao_btn"
+        app:fabCustomSize="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/qiandaotv"
+        app:maxImageSize="80dp"
+        app:rippleColor="@color/btn_ghost_blue_border_pressed" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
